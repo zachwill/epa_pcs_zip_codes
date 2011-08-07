@@ -21,8 +21,7 @@ def find_count(zip_code):
         # No facilities for the given ZIP Code.
         count = 0
     else:
-        count = data['Count']
-        count = int(count)
+        count = int(data['Count'])
     return count
 
 
