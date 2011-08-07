@@ -63,7 +63,7 @@ records date back to the 1970s.
 ### Average ###
 
 The average number of facilities per ZIP Code turns out to be **a little
-more then 4**.
+more than 4**.
 
 ```python
     >>> from __future__ import division
