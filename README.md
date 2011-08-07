@@ -35,7 +35,7 @@ What were the results?
 
 ### Total ###
 
-*2190* facilites have been permits to pollute public water sources.
+**2190** facilites have been permits to pollute public water sources.
 
 You can run the `epa_pcs_zip_codes.py` script to verify this, but it will
 take a couple minutes -- and put a strain on the EPA's servers. But, if
@@ -45,7 +45,7 @@ script for yourself.
 
 ### Highest Count ###
 
-The Jacksonville, Florida ZIP Code of 32218 has *178* facilities that have
+The Jacksonville, Florida ZIP Code of 32218 has **178** facilities that have
 been granted EPA permits to pollute public water sources -- some of the
 records date back to the 1970s.
 
@@ -59,8 +59,8 @@ records date back to the 1970s.
 
 ### Average ###
 
-The average number of facilities per ZIP Code turns out to be *a little
-more then 4*.
+The average number of facilities per ZIP Code turns out to be **a little
+more then 4**.
 
     >>> from __future__ import division
     >>> 2190 / 531
